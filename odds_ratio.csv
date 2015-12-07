@@ -1,0 +1,4 @@
+Param_1,preval_param_2,risk_ratio,meaning_risk_ratio,odds_param_2,odds_ratio,meaning_odds_ratio
+low,0.2,ref,,0.25,,
+moderate,0.6,3,200,1.5,6,500
+high,0.9,4.5,350,9,36,3500
